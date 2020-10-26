@@ -63,5 +63,4 @@ Description: The red site has a vulnerability where one can submit html to edit 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
-
+The most challenging part of this lab as compared to other labs was that it required a lot of trial and error experimenting with the different sites to find the vulnerabilities.
