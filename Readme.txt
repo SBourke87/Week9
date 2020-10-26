@@ -2,7 +2,7 @@ Week 9 Homework
 Challenge Goals
 
 1. Username Enumeration
-
+<img src="User Enumeration%2C Green%2C Login Bolded.gif">
 2. Insecure Direct Object Reference (IDOR)
 
 3. SQL Injection
