@@ -17,15 +17,16 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking
 
-Description:
+Description: The blue site has a vulnerability where, using the provided php script, one can change their session to that of a logged in user
 
 
+![gif 1](https://github.com/SBourke87/Week9/blob/main/Blue%2C%20Session%20Hijacking%20via%20given%20PHP.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross Site Request Forgery
 
-Description:
+Description: The blue site has a vulnerability where one can submit html to edit the site via the feedback section
 
 
 
