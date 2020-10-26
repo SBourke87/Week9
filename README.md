@@ -24,11 +24,11 @@ Description: The blue site has a vulnerability where, using the provided php scr
 
 ![gif 1](https://github.com/SBourke87/Week9/blob/main/Blue%2C%20Session%20Hijacking%20via%20given%20PHP.gif)
 
-Vulnerability #2: Cross Site Request Forgery
+Vulnerability #2: SQL Injection
 
-Description: The blue site has a vulnerability where one can submit html to edit the site via the feedback section
+Description: Blue has a vulnerability where SQL can be submitted and executed via the URL.
 
-
+![gif 2](https://github.com/SBourke87/Week9/blob/main/SQL%20Injection%2C%20Blue%2C%20Able%20to%20execute%20SQL%20through%20URL.gif)
 
 ## Green
 
@@ -48,17 +48,17 @@ Description: An individual who is not logged in to the website may submit code t
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR Vulnerability
 
-Description:
+Description: By editing the user value in the URL, one can get access to content that is not meant to be seen
 
-<img src="red-vuln1.gif">
+![gif 1](https://github.com/SBourke87/Week9/blob/main/IDOR%20Vulnerability%2C%20Red%2C%20User%20IDs%20in%20URL.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross Site Request Forgery
 
-Description:
+Description: The red site has a vulnerability where one can submit html to edit the site via the feedback section
 
-<img src="red-vuln2.gif">
+
 
 
 ## Notes
