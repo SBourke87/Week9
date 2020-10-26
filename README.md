@@ -3,7 +3,7 @@ Challenge Goals
 
 1. Username Enumeration
 
-![](User Enumeration%2C Green%2C Login Bolded.gif)
+![gif 1](https://github.com/SBourke87/Week9/blob/main/User%20Enumeration%2C%20Green%2C%20Login%20Bolded.gif)
 
 2. Insecure Direct Object Reference (IDOR)
 
